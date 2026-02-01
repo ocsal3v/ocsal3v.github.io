@@ -246,6 +246,7 @@ blockquote {
 }
 
 .right-corner {
+  display: none;
   position: sticky;
   top: 2.5%;
   margin-left: 15px;
